@@ -1,14 +1,14 @@
 <?php 	
 
 
-
+echo 'Hello World';
 
  ?>
 
  <!DOCTYPE html>
  <html>
  <head>
- 	<title>	</title>
+ 	<title>WBMR</title>
  </head>
  <body>	
  		<ul>
